@@ -1,3 +1,3 @@
 package main
 
-func main() { fmt.println("hellow") }
+func main() { print("hellow") }
